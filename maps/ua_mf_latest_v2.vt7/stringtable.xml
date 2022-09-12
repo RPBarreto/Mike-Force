@@ -1468,8 +1468,8 @@
       </Key>
     </Container>
     <Container name="Zone_Name_Cam_Lao">
-      <Key ID="STR_vn_mf_zone_ban_hoang">
-        <Original>Ban Hoang</Original>
+      <Key ID="STR_vn_mf_zone_kelkkaniemi">
+        <Original>Kelkkaniemi</Original>
       </Key>
       <Key ID="STR_vn_mf_zone_ba_ria">
         <Original>Ba Ria</Original>

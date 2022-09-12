@@ -1,14 +1,3 @@
-/*Below is the template for creating a zone.
-zone_ban_hoang[] = { "This line is for the name of the zone beggening tieh the prefix 'zone'."
-
-// All other lines are for creating connectors between zones which guide the enemy assualt and reinforcement scripts.
-// "zone_hue" is the zone we want to connect to. "connector_ban_hoang_hue" references that the marker is a connector going from the root zone of this string
-// being "ban_hoang" and connecting to the desired zone being "zone_hue".
-	{"zone_hue", "connector_ban_hoang_hue"},
-	{"zone_saigon", "connector_ban_hoang_saigon"}, 
-	{"zone_da_nang", "connector_ban_hoang_da_nang"}
-};*/
-
 zone_nopala[] = {
 	{"zone_piispa", "connector_nopala_piispa"},
 	{"zone_pirunsarvi", "connector_nopala_pirunsarvi"},
@@ -146,7 +135,7 @@ zone_eerikkala[] = {
 };
 
 zone_selkarannankangas[] = {
-	{"zone_hurppu", "connector_selkarannankangas_hurppu"}
+	{"zone_hurppu", "connector_selkarannankangas_hurppu"},
 };
 
 zone_hurppu[] = {
@@ -174,20 +163,20 @@ zone_ylapaa[] = {
 };
 
 zone_myllynmaki[] = {
-	{"zone_virojoki", "connector_myllynmaki_virojoki"}
-	{"zone_ylapaa", "connector_myllynmaki_ylapaa"}
-	{"zone_pyterlahti", "connector_myllynmaki_pyterlahti"}
+	{"zone_virojoki", "connector_myllynmaki_virojoki"},
+	{"zone_ylapaa", "connector_myllynmaki_ylapaa"},
+	{"zone_pyterlahti", "connector_myllynmaki_pyterlahti"},
 
 };
 
 zone_virojoki[] = {
-	{"zone_pyterlahti", "connector_virojoki_pyterlahti"}
-	{"zone_myllynmaki", "connector_virojoki_myllynmaki"}
-	{"zone_pyterlahti", "connector_virojoki_pyterlahti"}
+	{"zone_pyterlahti", "connector_virojoki_pyterlahti"},
+	{"zone_myllynmaki", "connector_virojoki_myllynmaki"},
+	{"zone_pyterlahti", "connector_virojoki_pyterlahti"},
 };
 
 zone_rus_airbase[] = {
-	{"zone_myllynmaki", "connector_rus_airbase_myllynmaki"}
+	{"zone_myllynmaki", "connector_rus_airbase_myllynmaki"},
 };
 
 zone_rus_outpost_1[] = {
@@ -204,9 +193,3 @@ zone_industrial_park[] = {
 zone_pajunlahti[] = {
 	{"zone_virojoki", "connector_pajunlahti_virojoki"},
 };
-
-zone_san_bay_ban[] = {};
-
-zone_da_nang[] = {};
-
-zone_ling_ho[] = {};
