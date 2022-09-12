@@ -1,8 +1,6 @@
 /*
     File: fn_infopanel_init.sqf
-    Author: Dscha
-    Date: 2020-06-09
-    Last Update: 2020-06-12
+    Author:  Savage Game Design
     Public: No
     
     Description:

@@ -1,8 +1,6 @@
 /*
 	File: fn_loadbal_create_squad.sqf
-	Author: Spoffy
-	Date: 2020-05-25
-	Last Update: 2020-07-03
+	Author:  Savage Game Design
 	Public: No
 
 	Description:

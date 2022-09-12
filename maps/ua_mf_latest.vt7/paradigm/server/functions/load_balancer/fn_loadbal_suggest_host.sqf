@@ -1,8 +1,6 @@
 /*
     File: fn_loadbal_suggest_host.sqf
-    Author: Aaron Clark and Spoffy
-    Date: 2020-06-24
-    Last Update: 2020-06-24
+    Author:  Savage Game Design
     Public: No
 
     Description:

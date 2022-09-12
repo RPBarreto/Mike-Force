@@ -1,8 +1,6 @@
 /*
     File: fn_placing_object_adjust.sqf
-    Author: Aaron Clark
-    Date: 2020-08-02
-    Last Update: 2020-08-02
+    Author:  Savage Game Design
     Public: No
 
     Description:

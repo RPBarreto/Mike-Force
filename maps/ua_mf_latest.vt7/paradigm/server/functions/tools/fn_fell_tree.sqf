@@ -1,8 +1,6 @@
 /*
     File: fn_fell_tree.sqf
-    Author: dent
-    Date: 2021-07-08
-    Last Update: Date: 2021-11-11
+    Author:  Savage Game Design
     Public: Yes
 
     Description:

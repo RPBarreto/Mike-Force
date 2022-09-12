@@ -1,8 +1,6 @@
 /*
     File: fn_ai_obj_request_pursuit.sqf
-    Author: Spoffy
-    Date: 2020-09-10
-    Last Update: 2020-12-12
+    Author:  Savage Game Design
     Public: No
     
     Description:

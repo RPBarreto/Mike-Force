@@ -1,6 +1,6 @@
 /*
     File: fn_ui_hints_acknowledgeHintKeypress.sqf
-    Author: Spoffy
+    Author:  Savage Game Design
     Public: No
     
     Description:

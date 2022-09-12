@@ -1,8 +1,6 @@
 /*
     File: fn_harass_calculate_challenge_rating.sqf
-    Author: Spoffy
-    Date: 2020-06-12
-    Last Update: 2020-06-12
+    Author:  Savage Game Design
     Public: No
     
     Description:

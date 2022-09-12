@@ -155,9 +155,6 @@ class vn_b_air_uh1d_02_05 : respawn_medium {};
 class vn_b_air_uh1d_02_06 : respawn_medium {};
 class vn_b_air_uh1d_02_07 : respawn_medium {};
 
-//UH60
-class RHS_UH60M : respawn_medium {};
-
 //UH-1D Bushranger
 class vn_b_air_uh1d_03_06 : wreck_medium {};
 
@@ -309,28 +306,3 @@ class uns_willys_2_usmp : respawn_short {};
 class uns_willys_2_usmc : respawn_short {};
 class uns_willys_2_m60 : respawn_short {};
 class uns_willys_2_m1919 : respawn_short {};
-
-/////////////////////////////
-///EXO Custom Configuration//
-////////////////////////////
-
-//Aircraft
-
-	//Helicopters
-		//Hatchet UH-60
-		class vtx_HH60 : respawn_medium {};
-		class vtx_MH60M0 : respawn_medium {};
-		class vtx_MH60M_DAP : respawn_medium {};
-		class vtx_MH60S : respawn_medium {};
-		class vtx_MH60S_GAU21L : respawn_medium {};
-		class vtx_MH60S_Pylons : respawn_medium {};
-		class vtx_UH60M : respawn_medium {};
-		class vtx_UH60M_MEDEVAC : respawn_medium {};
-		class vtx_UH60M_SLICK : respawn_medium {};
-
-		//RHS
-		class RHS_CH_47F : respawn_medium {};
-		class RHS_CH_47F_cargo : respawn_medium {};
-		class RHS_MELB_H6M : respawn_medium {};
-		class RHS_MELB_AH6M : respawn_medium {};
-		class RHS_MELB_MH6M : respawn_medium {};

@@ -1,8 +1,6 @@
 /*
 	File: fn_arraydict_get.sqf
-	Author: Spoffy
-	Date: 2020-08-31
-	Last Update: 2020-08-31
+	Author:  Savage Game Design
 	Public: Yes
 	
 	Description:

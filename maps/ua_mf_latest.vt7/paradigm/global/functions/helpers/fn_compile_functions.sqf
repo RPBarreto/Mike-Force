@@ -1,8 +1,6 @@
 /*
     File: fn_compile_functions.sqf
-    Author: Spoffy
-    Date: 2020-10-09
-    Last Update: 2020-10-09
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

@@ -1,8 +1,6 @@
 /*
 	File: fn_set_public_variable.sqf
-	Author: Spoffy
-	Date: 2020-07-04
-	Last Update: 2020-07-04
+	Author:  Savage Game Design
 	Public: Yes
 	
 	Description:

@@ -1,8 +1,6 @@
 /*
     File: fn_fell_tree_initial.sqf
-    Author: Alablm
-    Date: 2021-12-05
-    Last Update: Date: 2021-12-06
+    Author:  Savage Game Design
     Public: Yes
 
     Description:

@@ -1,8 +1,6 @@
 /*
 	File: fn_bf_maintenance_rehandler.sqf
-	Author: Spoffy
-	Date: 2020-11-13
-	Last Update: 2020-11-13
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

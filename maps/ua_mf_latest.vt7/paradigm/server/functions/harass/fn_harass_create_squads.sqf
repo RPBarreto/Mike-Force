@@ -1,8 +1,6 @@
 /*
 	File: fn_harass_create_squads.sqf
-	Author: Spoffy, Alablm
-	Date: 2020-06-13
-	Last Update: 2022-04-02
+	Author:  Savage Game Design
 	Public: No
 
 	Description:

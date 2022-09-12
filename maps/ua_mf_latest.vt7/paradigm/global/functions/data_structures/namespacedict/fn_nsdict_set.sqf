@@ -1,8 +1,6 @@
 /*
     File: fn_nsdict_set.sqf
-    Author: Spoffy
-    Date: 2020-09-01
-    Last Update: 2020-09-01
+    Author:  Savage Game Design
     Public: No
     
     Description:

@@ -1,8 +1,6 @@
 /*
 	File: paradigm.hpp
-	Author: Heyoxe
-	Date: 2020-11-06
-	Last Update: 2020-12-06
+	Author:  Savage Game Design
 	Public: No
 
 	Description:

@@ -1,8 +1,6 @@
 /*
     File: bf_veh_spawn_add_spawn_actions.sqf
-    Author: Spoffy, Alablm
-    Date: 2020-11-17
-    Last Update: 2022-06-24
+    Author:  Savage Game Design
     Public: No
 
     Description:

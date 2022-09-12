@@ -1,8 +1,6 @@
 /*
 	File: fn_buildingMenu_onCategoryChange.sqf
-	Author: Heyoxe
-	Date: 2020-11-06
-	Last Update: 2020-11-24
+	Author:  Savage Game Design
 	Public: No
 
 	Description:

@@ -1,8 +1,6 @@
 /*
     File: fn_buildable_resupply_info.sqf
-    Author: Aaron Clark <vbawol>, Spoffy
-    Date: 2020-05-29
-    Last Update: 2020-05-29
+    Author:  Savage Game Design
     Public: No
 
     Description:

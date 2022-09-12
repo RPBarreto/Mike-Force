@@ -1,8 +1,6 @@
 /*
     File: fn_count_units_in_groups.sqf
-    Author: Spoffy, Cerebral
-    Date: 2020-01-29
-    Last Update: 2022-05-29
+    Author:  Savage Game Design
     Public: No
     
     Description:

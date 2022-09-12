@@ -1,8 +1,6 @@
 /*
 	File: fn_notificationRush.sqf
-	Author: Heyoxe
-	Date: 2020-11-19
-	Last Update: 2020-11-19
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

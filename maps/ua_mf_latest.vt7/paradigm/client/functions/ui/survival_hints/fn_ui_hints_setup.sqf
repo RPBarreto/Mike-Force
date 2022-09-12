@@ -1,8 +1,6 @@
 /*
 	File: fn_ui_hints_setup.sqf
-	Author: Spoffy
-	Date: 2021-03-24
-	Last Update: 2021-03-24
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

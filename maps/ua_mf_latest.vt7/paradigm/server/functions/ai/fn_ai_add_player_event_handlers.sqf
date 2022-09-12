@@ -1,8 +1,6 @@
 /*
     File: fn_behaviour_add_player_event_handlers.sqf
-    Author: Spoffy
-    Date: 2020-07-02
-    Last Update: 2020-07-02
+    Author:  Savage Game Design
     Public: Yes
 	Locality: Server
     

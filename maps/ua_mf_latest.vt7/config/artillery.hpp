@@ -4,7 +4,7 @@ class vn_artillery_settings
         cost_variable = "";
         // Array - { Always available, `radio_backpacks`, `radio_vehicles`, `player_types`, "vn_artillery" unit trait}
         // Make the first true for the radio to be always avaliable
-        availability[] = {0, 1, 1, 0, 0};
+        availability[] = {1, 1, 1, 0, 0};
         unit_trait_required = 1;
 	      // Distance from the edge of a blacklisted marker that a artillery/aircraft cannot be called in.
 	      danger_distance = 150;
@@ -105,6 +105,16 @@ class vn_artillery_settings
                                 description = $STR_VN_ARTILLERY_AIRCRAFT_HE_DRAGON_DESCRIPTION;
                                 magazines[] = {"vn_rocket_ffar_m229_he_x19", "vn_rocket_ffar_m229_he_x19"};
                                 vehicleclass = "vn_b_air_uh1c_01_02";
+                                cooldown = (5*60);
+                                cost = 16;
+                        };
+                        class bayraktar
+                        {
+                                displayname = Bayraktar;
+                                icon = "vn\ui_f_vietnam\data\decals\vn_callsign_src_a477_ca.paa";
+                                description = Testing description;
+                                magazines[] = {"vn_rocket_ffar_m229_he_x19", "vn_rocket_ffar_m229_he_x19"};
+                                vehicleclass = "CUP_B_Pchela1T_CDF";
                                 cooldown = (5*60);
                                 cost = 16;
                         };

@@ -1,8 +1,6 @@
 /*
     File: fn_perf_enable_dynamic_view_distance.sqf
-    Author: Spoffy
-    Date: 2021-04-05
-    Last Update: 2021-04-05
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

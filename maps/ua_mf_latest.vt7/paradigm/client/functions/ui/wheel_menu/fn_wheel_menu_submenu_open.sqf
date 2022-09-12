@@ -1,8 +1,6 @@
 /*
     File: fn_wheel_menu_open.sqf
-    Author: Aaron Clark <vbawol> and Spoffy
-    Date: 2020-04-16
-    Last Update: 2020-05-28
+    Author:  Savage Game Design
     Public: Yes
 
     Description:

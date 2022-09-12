@@ -1,8 +1,6 @@
 /*
     File: fn_building_delete.sqf
-    Author: Spoffy
-    Date: 2020-08-19
-    Last Update: 2021-12-04
+    Author:  Savage Game Design
     Public: No
 
     Description:

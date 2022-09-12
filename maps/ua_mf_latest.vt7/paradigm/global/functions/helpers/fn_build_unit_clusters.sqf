@@ -1,8 +1,6 @@
 /*
     File: fn_build_unit_clusters.sqf
-    Author: Spoffy
-    Date: 2020-04-30
-    Last Update: 2020-04-30
+    Author:  Savage Game Design
     Public: No
     
     Description:

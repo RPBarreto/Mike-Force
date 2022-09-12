@@ -1,8 +1,6 @@
 /*
 	File: fn_bf_veh_spawn_request_vehicle_spawn.sqf
-	Author: Spoffy
-	Date: 2020-11-17
-	Last Update: 2022-06-24
+	Author:  Savage Game Design
 	Public: Yes
 
 	Description:

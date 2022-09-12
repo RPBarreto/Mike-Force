@@ -1,8 +1,6 @@
 /*
     File: fn_nsdict_create.sqf
-    Author: Spoffy
-    Date: 2020-09-01
-    Last Update: 2020-09-01
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

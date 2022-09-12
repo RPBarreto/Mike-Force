@@ -1,8 +1,6 @@
 /*
 	File: fn_getKeyName.sqf
-	Author: Terra
-	Date: 2020-06-08
-	Last Update: 2020-06-09
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

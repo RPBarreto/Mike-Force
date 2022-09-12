@@ -1,8 +1,6 @@
 /*
 	File: fn_create_mine.sqf
-	Author: Spoffy
-	Date: 2020-05-23
-	Last Update: 2020-07-01
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

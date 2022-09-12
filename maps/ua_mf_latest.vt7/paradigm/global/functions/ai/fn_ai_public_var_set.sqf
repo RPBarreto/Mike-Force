@@ -1,8 +1,6 @@
 /*
     File: fn_ai_public_var_set.sqf
-    Author: Spoffy
-    Date: 2020-07-04
-    Last Update: 2020-07-04
+    Author:  Savage Game Design
     Public: No
     
     Description:

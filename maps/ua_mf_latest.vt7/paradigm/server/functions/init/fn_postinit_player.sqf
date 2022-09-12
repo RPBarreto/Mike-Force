@@ -1,8 +1,6 @@
 /*
 	File: fn_postinit_player.sqf
-	Author: Spoffy
-	Date: 2020-10-20
-	Last Update: 2020-10-20
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

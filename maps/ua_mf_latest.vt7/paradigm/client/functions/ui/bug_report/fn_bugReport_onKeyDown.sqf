@@ -1,8 +1,6 @@
 /**
     File: fn_bugReport_onKeyDown.sqf
-    Author: Heyoxe
-    Date: 2020-04-02
-    Last Update: 2021-04-02
+    Author:  Savage Game Design
     Public: No
     
     Description:

@@ -1,8 +1,6 @@
 /*
     File: fn_day_night_subsystem_init.sqf
-    Author: Spoffy
-    Date: 2020-06-25
-    Last Update: 2020-06-25
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

@@ -1,8 +1,6 @@
 /*
 	File: fn_show_global_vote.sqf
-	Author: Spoffy
-	Date: 2021-02-21
-	Last Update: 2021-02-21
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

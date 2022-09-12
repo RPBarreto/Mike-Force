@@ -1,8 +1,6 @@
 /*
 	File: fn_create_struct.sqf
-	Author: Spoffy
-	Date: 2020-08-30
-	Last Update: 2020-08-30
+	Author:  Savage Game Design
 	Public: Yes
 	
 	Description:

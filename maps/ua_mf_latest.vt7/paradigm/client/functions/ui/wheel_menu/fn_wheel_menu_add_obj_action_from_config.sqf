@@ -1,8 +1,6 @@
 /*
 	File: fn_wheel_menu_add_obj_action_from_config.sqf
-	Author: Spoffy
-	Date: 2020-10-09
-	Last Update: 2020-10-09
+	Author:  Savage Game Design
 	Public: Yes
 	
 	Description:

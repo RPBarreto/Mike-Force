@@ -1,8 +1,6 @@
 /*
 	File: fn_load_interop_functions.sqf
-	Author: Spoffy
-	Date: 2020-10-30
-	Last Update: 2020-10-30
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

@@ -1,8 +1,6 @@
 /*
     File: fn_enable_dynamic_sim.sqf
-    Author: Spoffy
-    Date: 2021-04-04
-    Last Update: 2021-04-04
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

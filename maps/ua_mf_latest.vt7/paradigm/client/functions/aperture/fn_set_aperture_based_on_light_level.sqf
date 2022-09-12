@@ -1,8 +1,6 @@
 /*
 	File: fn_setApertureBasedOnLightLevel.sqf
-	Author: Spoffy
-	Date: 2021-01-16
-	Last Update: 2021-01-16
+	Author:  Savage Game Design
 	Public: Yes
 	
 	Description:

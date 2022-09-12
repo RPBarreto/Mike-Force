@@ -1,8 +1,6 @@
 /*
 	File: fn_ui_initMissionDisplay.sqf
 	Author: Karel Moricky, improved by Killzone_Kid, modifed by Terra for Mikeforce
-	Date: 2020-06-08
-	Last Update: 2020-06-17
 	Public: No
 	
 	Description:

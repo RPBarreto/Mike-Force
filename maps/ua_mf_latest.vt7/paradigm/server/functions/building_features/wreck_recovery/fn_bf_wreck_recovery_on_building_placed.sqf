@@ -1,8 +1,6 @@
 /*
 	File: fn_bf_wreck_recovery_on_building_placed.sqf
-	Author: Cerebral
-	Date: 2022-07-06
-	Last Update: 2022-07-06
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:
@@ -19,10 +17,5 @@
 */
 
 params ["_building"];
-
-if (isNil "para_s_bf_wreck_recovery_buildings") then {
-	//Init wreck recovery buildings array
-	para_s_bf_wreck_recovery_buildings = [];
-};
 
 para_s_bf_wreck_recovery_buildings pushBackUnique _building;

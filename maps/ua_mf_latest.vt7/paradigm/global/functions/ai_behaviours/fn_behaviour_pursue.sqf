@@ -1,8 +1,6 @@
 /*
 	File: fn_behaviour_pursue.sqf
-	Author: Spoffy
-	Date: 2020-06-05
-	Last Update: 2020-06-05
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

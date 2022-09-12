@@ -1,8 +1,6 @@
 /*
     File: fn_deserialize_struct.sqf
-    Author: Spoffy
-    Date: 2020-12-04
-    Last Update: 2020-12-04
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

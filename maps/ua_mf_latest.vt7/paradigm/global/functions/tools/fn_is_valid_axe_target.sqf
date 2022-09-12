@@ -1,8 +1,6 @@
 /*
     File: fn_is_valid_axe_target.sqf
-    Author: dent
-    Date: 2021-07-09
-    Last Update: 2021-07-09
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

@@ -1,6 +1,6 @@
 /*
 	File: fn_unit_is_incapacitated.sqf
-	Author: Yannik Hegge <Yax>
+	Author:  Savage Game Design
 	
 	Description:
 		Returns whether the unit is in the incapacitated state

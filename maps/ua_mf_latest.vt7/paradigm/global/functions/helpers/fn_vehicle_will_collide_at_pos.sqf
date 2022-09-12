@@ -1,8 +1,6 @@
 /*
     File: fn_vehicle_will_collide_at_pos.sqf
-    Author: Spoffy
-    Date: 2020-01-29
-    Last Update: 2020-01-29
+    Author:  Savage Game Design
     Public: No
     
     Description:

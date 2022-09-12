@@ -1,8 +1,6 @@
 /*
     File: fn_ai_create_behaviour_execution_loop.sqf
-    Author: Spoffy
-    Date: 2020-07-17
-    Last Update: 2020-07-17
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

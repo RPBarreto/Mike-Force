@@ -1,8 +1,6 @@
 /*
     File: config_file_runtime.sqf
-    Author: Spoffy
-    Date: 2020-08-28
-    Last Update: 2020-08-28
+    Author:  Savage Game Design
     Public: No
     
     Description:

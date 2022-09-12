@@ -1,8 +1,6 @@
 /*
 	File: fn_building_is_functional.sqf
-	Author: Spoffy
-	Date: 2020-11-17
-	Last Update: 2020-11-17
+	Author:  Savage Game Design
 	Public: Yes
 	
 	Description:

@@ -1,8 +1,6 @@
 /*
 	File: fn_postNotification.sqf
-	Author: Heyoxe
-	Date: 2020-11-19
-	Last Update: 2020-11-20
+	Author:  Savage Game Design
 	Public: Yes
 
 	Description:

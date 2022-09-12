@@ -153,9 +153,6 @@ class vn_logistics
 	class vn_b_air_uh1d_02_06 : vn_defaults_small {};
 	class vn_b_air_uh1d_02_07 : vn_defaults_small {};
 
-	//UH60
-	class RHS_UH60M : vn_defaults_small {};
-
 	//UH1C - Hog
 	class vn_b_air_uh1c_01_01 : vn_defaults_tiny {};
 	class vn_b_air_uh1c_01_02 : vn_defaults_tiny {};

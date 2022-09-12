@@ -1,8 +1,6 @@
 /*
 	File: fn_scheduler_remove_job.sqf
-	Author: Heyoxe
-	Date: 2020-05-23
-	Last Update: 2020-07-04
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

@@ -1,8 +1,6 @@
 /*
 	File: fn_building_state_tracker.sqf
-	Author: Aaron Clark <vbawol> and Spoffy
-	Date: 2020-05-23
-	Last Update: 2021-10-06
+	Author:  Savage Game Design
 	Public: No
 
 	Description:

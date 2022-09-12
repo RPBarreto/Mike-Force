@@ -1,8 +1,6 @@
 /*
     File: fn_ai_request_defend.sqf
-    Author: Spoffy
-    Date: 2020-04-30
-    Last Update: 2020-06-11
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

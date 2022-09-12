@@ -1,8 +1,6 @@
 /*
     File: fn_building_on_hit.sqf
-    Author: Spoffy
-    Date: 2020-09-05
-    Last Update: 2020-09-05
+    Author:  Savage Game Design
     Public: No
     
     Description:

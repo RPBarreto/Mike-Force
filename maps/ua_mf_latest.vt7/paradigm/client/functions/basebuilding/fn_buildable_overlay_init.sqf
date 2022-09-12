@@ -1,8 +1,6 @@
 /*
 	File: fn_buildable_overlay_init.sqf
-	Author: AWOL, Spoffy
-	Date: 2020-05-28
-	Last Update: 2020-07-04
+	Author:  Savage Game Design
 	Public: No
 
 	Description:

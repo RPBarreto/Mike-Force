@@ -1,8 +1,6 @@
 /*
     File: fn_create_state_machine.sqf
-    Author: Spoffy
-    Date: 2020-12-11
-    Last Update: 2020-12-11
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

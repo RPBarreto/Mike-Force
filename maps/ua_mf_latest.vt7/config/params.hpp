@@ -186,7 +186,7 @@ class snake_bite_chance
     title = $STR_vn_mf_param_snake_bite_chance;
     values[] = {0, 15, 25, 35, 50, 65, 75};
     texts[] = {"0% (Off)", "15%", "25%", "35%", "50% (Default)", "65%", "75%"};
-    default = 0;
+    default = 50;
 };
 
 class snake_bite_chance_desc
@@ -333,7 +333,7 @@ class headshot_kill
     title = $STR_vn_mf_param_headshot_kill;
     values[] = {0, 1};
     texts[] = {"Off (Default)", "On"};
-    default = 1;
+    default = 0;
 };
 
 class headshot_kill_desc

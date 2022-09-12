@@ -1,8 +1,6 @@
 /*
 	File: fn_loadChangelogContent.sqf
-	Author: Spoffy
-	Date: 2021-04-0
-	Last Update: 2021-04-30
+	Author:  Savage Game Design
 	Public: Yes
 	
 	Description:

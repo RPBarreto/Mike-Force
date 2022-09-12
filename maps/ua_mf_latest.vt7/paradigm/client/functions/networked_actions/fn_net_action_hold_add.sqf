@@ -1,8 +1,6 @@
 /*
     File: fn_net_action_hold_add.sqf
-    Author: Spoffy
-    Date: 2020-06-19
-    Last Update: 2020-06-19
+    Author:  Savage Game Design
     Public: No
     
     Description:

@@ -1,8 +1,6 @@
 /*
 	File: fn_scheduler_start.sqf
-	Author: Aaron Clark <vbawol>, Spoffy
-	Date: 2020-05-23
-	Last Update: 2020-07-04
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

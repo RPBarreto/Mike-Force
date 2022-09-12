@@ -1,8 +1,6 @@
 /*
     File: fn_base_delete.sqf
-    Author: Spoffy
-    Date: 2020-10-03
-    Last Update:  2021-10-15
+    Author:  Savage Game Design
     Public: No
 
     Description:

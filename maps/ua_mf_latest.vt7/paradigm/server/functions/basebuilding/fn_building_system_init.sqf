@@ -1,8 +1,6 @@
 /*
     File: fn_building_system_init.sqf
-    Author: Spoffy
-    Date: 2020-08-21
-    Last Update: 2020-08-21
+    Author:  Savage Game Design
     Public: Yes
     
     Description:
@@ -38,6 +36,8 @@ private _types = [];
 para_g_bases = [];
 //All buildings
 para_l_buildings = [];
+//Wreck recovery buildings
+para_s_bf_wreck_recovery_buildings = [];
 
 //Load any saved bases.
 [] call para_s_fnc_basebuilding_load;

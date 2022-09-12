@@ -1,8 +1,6 @@
 /*
     File: fn_create_or_reuse_waypoint.sqf
-    Author: Spoffy
-    Date: 2020-06-07
-    Last Update: 2020-06-07
+    Author:  Savage Game Design
     Public: No
     
     Description:

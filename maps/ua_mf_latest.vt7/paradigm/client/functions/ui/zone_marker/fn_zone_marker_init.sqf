@@ -1,8 +1,6 @@
 /*
     File: fn_zone_marker_init.sqf
-    Author: Terra
-    Date: 2021-02-19
-    Last Update: 2021-12-10
+    Author:  Savage Game Design
     Public: Yes
 
     Description:

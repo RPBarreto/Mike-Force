@@ -1,8 +1,6 @@
 /*
     File: fn_is_resupply.sqf
-    Author: Aaron Clark <vbawol>
-    Date: 2020-05-12
-    Last Update: 2020-05-28
+    Author:  Savage Game Design
     Public: No
 
     Description:

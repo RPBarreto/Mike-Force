@@ -1,8 +1,6 @@
 /*
     File: fn_ui_dynamicGroups.sqf
     Author: BadWolf, Bohemia Interactive
-    Date: 2022-06-25
-    Last Update: 2022-06-25 3:47:41 PM
     Public: Yes
     
     Description:

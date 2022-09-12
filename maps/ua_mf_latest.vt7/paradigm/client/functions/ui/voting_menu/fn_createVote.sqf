@@ -1,8 +1,6 @@
 /*
 	File: fn_createVote.sqf
-	Author: Heyoxe
-	Date: 2020-07-05
-	Last Update: 2020-07-09
+	Author:  Savage Game Design
 	Public: Yes
 	
 	Description:

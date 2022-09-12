@@ -1,8 +1,6 @@
 /*
     File: fn_scheduler_subsystem_init.sqf
-    Author: Spoffy
-    Date: 2021-04-05
-    Last Update: 2021-04-05
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

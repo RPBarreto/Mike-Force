@@ -1,8 +1,6 @@
 /*
 	File: fn_spawn_on_server.sqf
-	Author: Spoffy
-	Date: 2020-10-09
-	Last Update: 2020-10-09
+	Author:  Savage Game Design
 	Public: Yes
 	
 	Description:

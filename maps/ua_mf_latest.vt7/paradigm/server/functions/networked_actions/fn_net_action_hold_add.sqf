@@ -1,8 +1,6 @@
 /*
     File: fn_hold_action_add_serverside.sqf
-    Author: Spoffy
-    Date: 2020-06-19
-    Last Update: 2020-06-19
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

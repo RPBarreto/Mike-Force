@@ -1,8 +1,6 @@
 /*
 	File: fn_building_change_objects.sqf
-	Author: Spoffy
-	Date: 2020-10-17
-	Last Update: 2022-07-07
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

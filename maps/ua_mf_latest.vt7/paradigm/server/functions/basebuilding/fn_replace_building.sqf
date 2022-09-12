@@ -1,8 +1,6 @@
 /*
     File: fn_create_building.sqf
-    Author: Aaron Clark
-    Date: 2020-06-24
-    Last Update: 2020-06-24
+    Author:  Savage Game Design
     Public: No
 
     Description:

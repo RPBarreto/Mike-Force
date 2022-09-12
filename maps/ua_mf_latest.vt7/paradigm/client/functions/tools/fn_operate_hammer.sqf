@@ -1,8 +1,6 @@
 /*
     File: fn_operate_hammer.sqf
-    Author: dent
-    Date: 2021-07-08
-    Last Update: Date: 2021-07-08
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

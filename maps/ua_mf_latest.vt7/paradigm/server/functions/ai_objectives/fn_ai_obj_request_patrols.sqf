@@ -1,6 +1,6 @@
 /*
     File: fn_ai_request_patrols.sqf
-    Author: Spoffy
+    Author:  Savage Game Design
     Description:
        Requests the AI subsystem station patrol units around an area
     Params:

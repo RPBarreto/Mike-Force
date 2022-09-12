@@ -1,8 +1,6 @@
 /*
     File: fn_base_create.sqf
-    Author: Spoffy
-    Date: 2020-10-03
-    Last Update: 2021-11-06
+    Author:  Savage Game Design
     Public: No
 
     Description:

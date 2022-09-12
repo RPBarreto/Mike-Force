@@ -1,8 +1,6 @@
 /*
     File: fn_basebuilding_load.sqf
-    Author: Spoffy
-    Date: 2020-11-08
-    Last Update: 2021-12-03
+    Author:  Savage Game Design
     Public: Yes
 
     Description:

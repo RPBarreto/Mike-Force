@@ -1,8 +1,6 @@
 /*
     File: fn_zone_marker_get_info.sqf
-    Author: Alablm
-    Date: 2021-11-06
-    Last Update: 2021-12-03
+    Author:  Savage Game Design
     Public: No
 
     Description:

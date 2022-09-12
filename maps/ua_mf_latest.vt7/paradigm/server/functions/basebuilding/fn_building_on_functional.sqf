@@ -1,8 +1,6 @@
 /*
     File: fn_building_on_functional.sqf
-    Author: Spoffy
-    Date: 2020-11-08
-    Last Update: 2020-11-08
+    Author:  Savage Game Design
     Public: No
     
     Description:

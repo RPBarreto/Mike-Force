@@ -1,8 +1,6 @@
 /*
 	File: fn_spawning_get_squad_composition.sqf
-	Author: Spoffy
-	Date: 2020-07-31
-	Last Update: 2020-07-31
+	Author:  Savage Game Design
 	Public: Yes
 	
 	Description:

@@ -1,8 +1,6 @@
 /**
     File: fn_bugReport_show.sqf
-    Author: Heyoxe
-    Date: 2020-03-31
-    Last Update: 2021-04-02
+    Author:  Savage Game Design
     Public: No
     
     Description:

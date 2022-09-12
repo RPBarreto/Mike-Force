@@ -1,8 +1,6 @@
 /*
 	File: fn_bf_veh_spawn_on_building_objects_changed.sqf
-	Author: Spoffy
-	Date: 2020-11-17
-	Last Update: 2020-11-17
+	Author:  Savage Game Design
 	Public: No
 
 	Description:

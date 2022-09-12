@@ -1,8 +1,6 @@
 /*
 	File: fn_para_RscDisplayKeybindingsMenu.sqf
-	Author: Terra
-	Date: 2020-06-08
-	Last Update: 2020-06-17
+	Author:  Savage Game Design
 	Public: No
 
 	Description:

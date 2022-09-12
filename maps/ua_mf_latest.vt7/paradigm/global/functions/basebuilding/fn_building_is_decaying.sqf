@@ -1,8 +1,6 @@
 /*
     File: fn_building_is_decaying.sqf
-    Author: Spoffy
-    Date: 2020-08-21
-    Last Update: 2020-08-21
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

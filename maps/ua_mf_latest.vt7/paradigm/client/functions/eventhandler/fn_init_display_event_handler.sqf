@@ -1,8 +1,6 @@
 /*
 	File: fn_init_display_event_handler.sqf
-	Author: Aaron Clark <vbawol>
-	Date: 2020-05-23
-	Last Update: 2020-07-04
+	Author:  Savage Game Design
 	Public: No
 
 	Description:

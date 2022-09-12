@@ -1,8 +1,6 @@
 /*
     File: eh_KeyDown.sqf
-    Author: Aaron Clark <vbawol>
-    Date: 2020-01-29
-    Last Update: 2020-05-27
+    Author:  Savage Game Design
     Public: No
 
     Description:

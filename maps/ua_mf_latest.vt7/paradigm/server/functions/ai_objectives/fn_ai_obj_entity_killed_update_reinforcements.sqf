@@ -1,8 +1,6 @@
 /*
     File: fn_ai_obj_entity_killed_update_reinforcements.sqf
-    Author: Spoffy
-    Date: 2020-12-22
-    Last Update: 2020-12-22
+    Author:  Savage Game Design
     Public: No
     
     Description:

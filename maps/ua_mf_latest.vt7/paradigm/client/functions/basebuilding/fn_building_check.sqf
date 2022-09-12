@@ -1,8 +1,6 @@
 /*
     File: fn_building_check.sqf
-    Author: Aaron Clark
-    Date: 2020-07-19
-    Last Update: 2021-11-11
+    Author:  Savage Game Design
     Public: No
 
     Description:

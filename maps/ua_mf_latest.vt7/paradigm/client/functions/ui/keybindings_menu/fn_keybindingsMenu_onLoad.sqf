@@ -1,8 +1,6 @@
 /*
 	File: fn_keybindingsMenu_onLoad.sqf
-	Author: Terra
-	Date: 2020-06-17
-	Last Update: 2020-06-18
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

@@ -1,8 +1,6 @@
 /*
 	File: fn_building_connect_supply_source.sqf
-	Author: Spoffy
-	Date: 2020-08-15
-	Last Update: 2020-08-15
+	Author:  Savage Game Design
 	Public: Yes
 	
 	Description:

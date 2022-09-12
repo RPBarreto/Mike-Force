@@ -1,8 +1,6 @@
 /*
     File: fn_zone_marker_hide_info.sqf
-    Author: Terra
-    Date: 2021-02-20
-    Last Update: 2021-02-21
+    Author:  Savage Game Design
     Public: No
     
     Description:

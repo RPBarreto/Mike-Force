@@ -1,8 +1,6 @@
 /*
     File: fn_profile_db.sqf
-    Author: Aaron Clark <vbawol>
-    Date: 2020-01-29
-    Last Update: 2020-01-29
+    Author:  Savage Game Design
     Public: No
 
     Description:

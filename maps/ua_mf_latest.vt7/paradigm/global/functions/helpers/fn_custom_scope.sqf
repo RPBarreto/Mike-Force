@@ -1,8 +1,6 @@
 /*
     File: fn_custom_scope.sqf
-    Author: Aaron Clark <vbawol>
-    Date: 2020-01-29
-    Last Update: 2020-02-04
+    Author:  Savage Game Design
     Public: No
     
     Description:

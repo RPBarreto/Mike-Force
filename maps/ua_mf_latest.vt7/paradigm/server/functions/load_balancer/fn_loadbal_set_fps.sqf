@@ -1,8 +1,6 @@
 /*
     File: fn_loadbal_set_fps.sqf
-    Author: Aaron Clark <vbawol>
-    Date: 2020-05-10
-    Last Update: 2020-06-06
+    Author:  Savage Game Design
     Public: No
     
     Description:

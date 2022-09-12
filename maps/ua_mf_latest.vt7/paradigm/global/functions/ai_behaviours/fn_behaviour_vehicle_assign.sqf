@@ -1,8 +1,6 @@
 /*
     File: fn_behaviour_vehicle_assign.sqf
-    Author: Spoffy
-    Date: 2020-07-04
-    Last Update: 2020-07-04
+    Author:  Savage Game Design
     Public: No
     
     Description:

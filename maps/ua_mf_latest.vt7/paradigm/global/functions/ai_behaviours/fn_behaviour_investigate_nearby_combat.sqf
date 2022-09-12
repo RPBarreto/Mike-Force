@@ -1,8 +1,6 @@
 /*
     File: fn_behaviour_investigate_nearby_combat.sqf
-    Author: Spoffy
-    Date: 2020-07-02
-    Last Update: 2020-07-02
+    Author:  Savage Game Design
     Public: No
     
     Description:

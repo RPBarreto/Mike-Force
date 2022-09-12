@@ -1,8 +1,6 @@
 /*
     File: fn_harass_add_player_event_handlers.sqf
-    Author: Spoffy
-    Date: 2020-06-12
-    Last Update: 2020-06-12
+    Author:  Savage Game Design
     Public: No
     
     Description:

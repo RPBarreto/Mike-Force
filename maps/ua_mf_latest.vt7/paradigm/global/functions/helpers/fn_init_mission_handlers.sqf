@@ -1,8 +1,6 @@
 /*
     File: fn_init_mission_handlers.sqf
-    Author: Aaron Clark <vbawol>
-    Date: 2020-01-29
-    Last Update: 2020-06-09
+    Author:  Savage Game Design
     Public: No
 
     Description:

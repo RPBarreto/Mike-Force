@@ -1,8 +1,6 @@
 /*
     File: fn_rehandler.sqf
-    Author: Aaron Clark <vbawol>
-    Date: 2020-01-29
-    Last Update: 2020-03-10
+    Author:  Savage Game Design
     Public: No
 
     Description:

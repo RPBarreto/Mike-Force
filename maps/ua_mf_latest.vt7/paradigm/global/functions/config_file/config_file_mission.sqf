@@ -1,8 +1,6 @@
 /*
 	File: config_file_mission.sqf
-	Author: Spoffy
-	Date: 2020-08-28
-	Last Update: 2020-08-28
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

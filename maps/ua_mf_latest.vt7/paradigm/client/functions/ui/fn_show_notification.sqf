@@ -1,8 +1,6 @@
 /*
 	File: fn_show_notification.sqf
-	Author: Spoffy
-	Date: 2020-05-31
-	Last Update: 2020-07-04
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

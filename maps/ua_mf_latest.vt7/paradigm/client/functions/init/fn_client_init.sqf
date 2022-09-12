@@ -1,8 +1,6 @@
 /*
     File: fn_client_init.sqf
-    Author: Spoffy
-    Date: 2020-10-13
-    Last Update: 2020-10-13
+    Author:  Savage Game Design
     Public: No
     
     Description:

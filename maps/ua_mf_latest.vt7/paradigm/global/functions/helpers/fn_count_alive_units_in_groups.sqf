@@ -1,8 +1,6 @@
 /*
     File: fn_count_alive_units_in_groups.sqf
-    Author: Spoffy
-    Date: 2020-03-07
-    Last Update: 2020-03-07
+    Author:  Savage Game Design
     Public: No
     
     Description:

@@ -1,8 +1,6 @@
 /*
     File: fn_wheel_menu_open_with_default_actions.sqf
-    Author:Spoffy
-    Date: 2022-01-29
-    Last Update: 2022-01-29
+    Author: Savage Game Design
     Public: Yes
 
     Description:

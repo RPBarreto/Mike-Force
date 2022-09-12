@@ -1,8 +1,6 @@
 /*
 	File: fn_loadVotingMenu.sqf
-	Author: Heyoxe
-	Date: 2020-07-09
-	Last Update: 2020-07-09
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

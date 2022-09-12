@@ -1,8 +1,6 @@
 /*
     File: fn_behaviour_update_ai_knowledge.sqf
-    Author: Spoffy
-    Date: 2020-07-03
-    Last Update: 2020-07-03
+    Author:  Savage Game Design
     Public: No
     
     Description:

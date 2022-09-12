@@ -1,8 +1,6 @@
 /*
 	File: fn_place_object.sqf
-	Author: Aaron Clark <vbawol>
-	Date: 2020-05-23
-	Last Update: 2020-07-22
+	Author:  Savage Game Design
 	Public: No
 
 	Description:

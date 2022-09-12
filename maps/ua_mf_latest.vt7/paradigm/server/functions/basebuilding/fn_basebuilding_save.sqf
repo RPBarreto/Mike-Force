@@ -1,8 +1,6 @@
 /*
 	File: fn_basebuilding_save.sqf
-	Author: Spoffy
-	Date: 2020-11-08
-	Last Update: 2020-11-08
+	Author:  Savage Game Design
 	Public: Yes
 	
 	Description:

@@ -1,8 +1,6 @@
 /*
     File: fn_serialize_namespace.sqf
-    Author: Spoffy, AWOL
-    Date: 2020-08-20
-    Last Update: 2020-08-20
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

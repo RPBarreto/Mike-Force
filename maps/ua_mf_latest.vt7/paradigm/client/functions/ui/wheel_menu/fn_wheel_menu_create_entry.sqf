@@ -1,8 +1,6 @@
 /*
     File: fn_wheel_menu_create_wheel_menu_entry.sqf
-    Author: Spoffy
-    Date: 2020-10-12
-    Last Update: 2020-10-12
+    Author:  Savage Game Design
     Public: No
     
     Description:

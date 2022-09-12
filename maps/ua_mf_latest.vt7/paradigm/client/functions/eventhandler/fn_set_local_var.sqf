@@ -1,8 +1,6 @@
 /*
     File: fn_set_local_var.sqf
-    Author: Aaron Clark <vbawol>
-    Date: 2020-04-16
-    Last Update: 2020-05-28
+    Author:  Savage Game Design
     Public: No
 
     Description:

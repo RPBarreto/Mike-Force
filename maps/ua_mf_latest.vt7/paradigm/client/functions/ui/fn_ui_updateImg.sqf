@@ -1,8 +1,6 @@
 /*
     File: fn_ui_updateImg.sqf
-    Author: Dscha
-    Date: 2020-04-23
-    Last Update: 2020-04-23
+    Author:  Savage Game Design
     Public: No
     
     Description:

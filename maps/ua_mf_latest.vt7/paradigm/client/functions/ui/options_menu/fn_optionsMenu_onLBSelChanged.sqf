@@ -1,8 +1,6 @@
 /*
 	File: fn_optionsMenu_onLBSelChanged.sqf
-	Author: Heyoxe
-	Date: 2020-12-04
-	Last Update: 2020-12-05
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

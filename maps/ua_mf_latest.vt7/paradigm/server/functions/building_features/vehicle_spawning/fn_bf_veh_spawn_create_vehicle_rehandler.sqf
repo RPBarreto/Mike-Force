@@ -1,8 +1,6 @@
 /*
     File: fn_bf_veh_spawn_create_vehicle_rehandler.sqf
-    Author: Spoffy
-    Date: 2020-11-17
-    Last Update: 2021-10-06
+    Author:  Savage Game Design
     Public: No
 
     Description:

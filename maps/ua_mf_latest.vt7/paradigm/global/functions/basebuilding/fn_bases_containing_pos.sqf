@@ -1,8 +1,6 @@
 /*
     File: fn_bases_containing_pos.sqf
-    Author: Spoffy
-    Date: 2020-10-03
-    Last Update: 2020-10-03
+    Author:  Savage Game Design
     Public: No
     
     Description:

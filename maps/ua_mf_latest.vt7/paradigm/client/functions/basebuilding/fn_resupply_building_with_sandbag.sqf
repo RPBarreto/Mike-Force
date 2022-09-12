@@ -1,8 +1,6 @@
 /*
 	File: fn_resupply_building_with_sandbag.sqf
-	Author: Aaron Clark <vbawol> and Spoffy
-	Date: 2020-05-24
-	Last Update: 2020-05-28
+	Author:  Savage Game Design
 	Public: No
 
 	Description:

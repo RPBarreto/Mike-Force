@@ -1,8 +1,6 @@
 /*
     File: fn_interactionOverlay_setProgress.sqf
-    Author: Heyoxe
-    Date: 2020-05-31
-    Last Update: 2020-05-31
+    Author:  Savage Game Design
     Public: No
     
     Description:

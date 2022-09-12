@@ -1,8 +1,6 @@
 /*
 	File: fn_wheel_menu_callback_wrapper.sqf
-	Author: Spoffy
-	Date: 2020-10-12
-	Last Update: 2020-10-12
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

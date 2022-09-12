@@ -1,8 +1,6 @@
 /*
     File: fn_interactionOverlay_add.sqf
-    Author: Heyoxe
-    Date: 2020-05-28
-    Last Update: 2020-05-28
+    Author:  Savage Game Design
     Public: No
     
     Description:

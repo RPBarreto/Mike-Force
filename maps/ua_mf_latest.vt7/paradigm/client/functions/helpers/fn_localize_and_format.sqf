@@ -1,8 +1,6 @@
 /*
 	File: fn_localize_and_format.sqf
-	Author: Spoffy
-	Date: 2020-05-29
-	Last Update: 2020-05-29
+	Author:  Savage Game Design
 	Public: Yes
 	
 	Description:

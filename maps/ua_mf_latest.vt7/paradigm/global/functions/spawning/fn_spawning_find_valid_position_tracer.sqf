@@ -1,8 +1,6 @@
 /*
 	File: fn_spawning_find_valid_position_tracer.sqf
-	Author: Spoffy
-	Date: 2020-05-23
-	Last Update: 2020-07-31
+	Author:  Savage Game Design
 	Public: Yes
 	
 	Description:

@@ -1,8 +1,6 @@
 /*
 	File: fn_building_create.sqf
-	Author: Spoffy and AWOL
-	Date: 2020-10-02
-	Last Update: 2020-10-02
+	Author:  Savage Game Design
 	Public: Yes
 	
 	Description:

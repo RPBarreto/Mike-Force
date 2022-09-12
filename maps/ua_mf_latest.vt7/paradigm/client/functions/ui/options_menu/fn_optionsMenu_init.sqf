@@ -1,8 +1,6 @@
 /*
 	File: fn_optionsMenu_init.sqf
-	Author: Heyoxe
-	Date: 2020-11-29
-	Last Update: 2020-12-05
+	Author:  Savage Game Design
 	Public: Yes
 
 	Description:

@@ -1,8 +1,6 @@
 /*
 	File: fn_ai_obj_objective_reinforcements_full_strength_unit_quantity.sqf
-	Author: Spoffy
-	Date: 2020-12-22
-	Last Update: 2022-03-02
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

@@ -1,8 +1,6 @@
 /*
 	File: fn_bf_veh_spawn_on_building_building_deleted.sqf
-	Author: Alablm
-	Date: 2020-12-11
-	Last Update: 2020-12-1
+	Author:  Savage Game Design
 	Public: No
 
 	Description:

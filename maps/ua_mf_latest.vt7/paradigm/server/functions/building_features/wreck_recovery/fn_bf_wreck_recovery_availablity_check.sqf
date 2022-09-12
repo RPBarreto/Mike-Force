@@ -1,8 +1,6 @@
 /*
 	File: fn_bf_wreck_recovery_availablity_check.sqf
-	Author: Cerebral
-	Date: 2022-07-06
-	Last Update: 2022-07-06
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

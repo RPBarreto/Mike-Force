@@ -1,8 +1,6 @@
 /*
 	File: fn_placedbuilding.sqf
-	Author: Aaron Clark <vbawol>
-	Date: 2020-01-29
-	Last Update: 2020-06-06
+	Author:  Savage Game Design
 	Public: No
 
 	Description:

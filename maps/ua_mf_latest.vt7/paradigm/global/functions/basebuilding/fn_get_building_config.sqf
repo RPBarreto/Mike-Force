@@ -1,8 +1,6 @@
 /*
     File: fn_get_building_config.sqf
-    Author: Spoffy
-    Date: 2020-08-19
-    Last Update: 2020-08-19
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

@@ -1,8 +1,6 @@
 /*
 	File: fnai_behaviour_init.sqf
-	Author: Spoffy
-	Date: 2020-06-04
-	Last Update: 2020-06-04
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

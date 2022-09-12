@@ -1,8 +1,6 @@
 /*
 	File: fn_ai_get_objective_by_id.sqf
-	Author: Spoffy
-	Date: 2020-05-23
-	Last Update: 2020-07-03
+	Author:  Savage Game Design
 	Public: No
 
 	Description:

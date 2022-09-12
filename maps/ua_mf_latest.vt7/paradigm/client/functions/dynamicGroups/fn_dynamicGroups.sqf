@@ -1,8 +1,6 @@
 /*
     File: fn_dynamicGroups.sqf
-    Author: BadWolf, Bohemia Interactive
-    Date: 2022-06-25
-    Last Update: 2022-06-25 3:48:33 AM
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

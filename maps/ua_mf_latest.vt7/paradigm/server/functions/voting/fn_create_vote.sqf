@@ -1,8 +1,6 @@
 /*
 	File: fn_create_vote.sqf
-	Author: Spoffy
-	Date: 2021-01-30
-	Last Update: 2021-01-30
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

@@ -1,8 +1,6 @@
 /*
 	File: fn_bf_supply_depot_on_base_connected.sqf
-	Author: Alablm
-	Date: 2022-03-10
-	Last Update: 2022-03-10
+	Author:  Savage Game Design
 	Public: No
 
 	Description:

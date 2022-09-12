@@ -1,8 +1,6 @@
 /*
 	File: fn_building_on_constructed.sqf
-	Author: Spoffy
-	Date: 2020-11-08
-	Last Update: 2021-11-11
+	Author:  Savage Game Design
 	Public: No
 
 	Description:

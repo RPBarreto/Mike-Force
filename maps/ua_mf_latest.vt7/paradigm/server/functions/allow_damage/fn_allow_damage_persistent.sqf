@@ -1,8 +1,6 @@
 /*
     File: fn_allow_damage_persistent.sqf
-    Author: Spoffy
-    Date: 2021-01-30
-    Last Update: 2021-01-30
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

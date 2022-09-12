@@ -1,8 +1,6 @@
 /*
     File: fn_paradigm_config_file.sqf
-    Author: Spoffy
-    Date: 2020-10-30
-    Last Update: 2020-10-30
+    Author:  Savage Game Design
     Public: No
     
     Description:

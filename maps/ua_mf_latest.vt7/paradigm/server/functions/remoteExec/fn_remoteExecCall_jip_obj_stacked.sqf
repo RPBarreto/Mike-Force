@@ -1,8 +1,6 @@
 /*
     File: fn_remoteExecCall_jip_obj_stacked.sqf
-    Author: Spoffy
-    Date: 2020-11-22
-    Last Update: 2020-11-22
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

@@ -1,8 +1,6 @@
 /*
     File: fn_behaviour_get_unclaimed_statics.sqf
-    Author: Spoffy
-    Date: 2020-07-04
-    Last Update: 2021-09-08
+    Author:  Savage Game Design
     Public: No
     
     Description:

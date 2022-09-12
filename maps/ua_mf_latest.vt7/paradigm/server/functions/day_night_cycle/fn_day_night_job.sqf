@@ -1,8 +1,6 @@
 /*
     File: fn_day_night_job.sqf
-    Author: Spoffy, Alablm
-    Date: 2020-06-25
-    Last Update: 2022-04-02
+    Author:  Savage Game Design
     Public: No
     
     Description:

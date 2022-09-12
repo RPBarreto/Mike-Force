@@ -1,8 +1,6 @@
 /*
 	File: fn_resupply_building_with_crate.sqf
-	Author: Aaron Clark <vbawol>
-	Date: 2020-05-24
-	Last Update: 2021-11-19
+	Author:  Savage Game Design
 	Public: No
 
 	Description:

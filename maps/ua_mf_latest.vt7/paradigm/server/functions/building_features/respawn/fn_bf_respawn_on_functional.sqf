@@ -1,8 +1,6 @@
 /*
     File: fn_bf_respawn_on_functional.sqf
-    Author: Spoffy
-    Date: 2020-10-17
-    Last Update: 2020-10-17
+    Author:  Savage Game Design
     Public: No
     
     Description:

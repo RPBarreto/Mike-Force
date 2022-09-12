@@ -1,8 +1,6 @@
 /*
     File: fn_load_structs_from_config.sqf
-    Author: Spoffy
-    Date: 2020-10-02
-    Last Update: 2020-10-02
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

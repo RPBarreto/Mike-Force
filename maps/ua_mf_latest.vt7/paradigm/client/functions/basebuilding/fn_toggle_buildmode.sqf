@@ -1,8 +1,6 @@
 /*
     File: fn_enable_build_mode.sqf
-    Author: Aaron Clark <vbawol>
-    Date: 2020-01-29
-    Last Update: 2020-06-01
+    Author:  Savage Game Design
     Public: No
 
     Description:

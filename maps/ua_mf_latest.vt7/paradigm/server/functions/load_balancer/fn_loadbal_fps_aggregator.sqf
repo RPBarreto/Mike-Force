@@ -1,8 +1,6 @@
 /*
 	File: fn_loadbal_fps_aggregator.sqf
-	Author: Aaron Clark <vbawol> and Spoffy
-	Date: 2020-05-23
-	Last Update: 2021-04-05
+	Author:  Savage Game Design
 	Public: No
 
 	Description:

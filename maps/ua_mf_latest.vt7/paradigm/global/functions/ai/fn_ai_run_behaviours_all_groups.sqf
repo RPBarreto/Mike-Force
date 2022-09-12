@@ -1,8 +1,6 @@
 /*
     File: fn_ai_run_behaviours_all_groups.sqf
-    Author: Spoffy
-    Date: 2020-07-17
-    Last Update: 2020-07-17
+    Author:  Savage Game Design
     Public: No
     
     Description:

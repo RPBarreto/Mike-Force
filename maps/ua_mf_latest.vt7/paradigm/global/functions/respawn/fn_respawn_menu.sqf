@@ -1,8 +1,6 @@
 /*
     File: fn_respawn_menu.sqf
     Author: Bohemia Interactive, Spoffy
-    Date: 2020-10-10
-    Last Update: 2021-11-12
     Public: No
 
     Description:

@@ -1,8 +1,6 @@
 /*
     File: fn_init_key_down.sqf
-    Author: Aaron Clark <vbawol>
-    Date: 2020-01-29
-    Last Update: 2020-05-28
+    Author:  Savage Game Design
     Public: No
 
     Description:

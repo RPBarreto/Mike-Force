@@ -1,8 +1,6 @@
 /*
     File: fn_ai_create_squads_from_unit_count.sqf
-    Author: Spoffy
-    Date: 2020-06-12
-    Last Update: 2020-06-12
+    Author:  Savage Game Design
     Public: No
     
     Description:

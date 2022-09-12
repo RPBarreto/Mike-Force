@@ -1,8 +1,6 @@
 /*
 	File: fn_behaviour_main.sqf
-	Author: Spoffy
-	Date: 2020-06-04
-	Last Update: 2020-06-04
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

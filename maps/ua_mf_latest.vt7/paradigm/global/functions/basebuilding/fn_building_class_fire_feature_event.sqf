@@ -1,8 +1,6 @@
 /*
 	File: fn_building_class_fire_feature_event.sqf
-	Author: Spoffy
-	Date: 2022-02-21
-	Last Update: 2022-02-21
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

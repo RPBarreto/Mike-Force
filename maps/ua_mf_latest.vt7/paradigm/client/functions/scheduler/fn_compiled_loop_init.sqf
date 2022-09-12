@@ -1,8 +1,6 @@
 /*
     File: fn_master_loop_init.sqf
-    Author: Aaron Clark <vbawol>
-    Date: 2020-02-23
-    Last Update: 2020-05-28
+    Author:  Savage Game Design
     Public: No
 
     Description:

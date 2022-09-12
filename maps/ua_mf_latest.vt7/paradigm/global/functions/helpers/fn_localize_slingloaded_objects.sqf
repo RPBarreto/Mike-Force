@@ -1,8 +1,6 @@
 /*
     File: fn_localize_slingloaded_objects.sqf
-    Author: Spoffy
-    Date: 2020-06-25
-    Last Update: 2020-06-25
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

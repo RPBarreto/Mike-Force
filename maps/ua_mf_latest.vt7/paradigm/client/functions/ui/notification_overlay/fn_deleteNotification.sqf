@@ -1,8 +1,6 @@
 /*
 	File: fn_deleteNotification.sqf
-	Author: Heyoxe
-	Date: 2020-11-21
-	Last Update: 2020-11-24
+	Author:  Savage Game Design
 	Public: Yes
 	
 	Description:

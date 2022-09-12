@@ -1,8 +1,6 @@
 /*
     File: fn_bf_veh_spawn_can_place_building.sqf
-    Author: Spoffy
-    Date: 2022-02-20
-    Last Update: 2022-02-20
+    Author:  Savage Game Design
     Public: Yes
     
     Description:

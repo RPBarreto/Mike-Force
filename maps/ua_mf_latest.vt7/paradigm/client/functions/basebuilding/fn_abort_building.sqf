@@ -1,8 +1,6 @@
 /*
     File: fn_abort_building.sqf
-    Author: Aaron Clark <vbawol>
-    Date: 2020-02-17
-    Last Update: 2020-05-28
+    Author:  Savage Game Design
     Public: No
 
     Description:

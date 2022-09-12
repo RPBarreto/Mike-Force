@@ -1,8 +1,6 @@
 /*
     File: fn_bf_maintenance_repair_vehicle.sqf
-    Author: Spoffy
-    Date: 2020-11-09
-    Last Update: 2020-11-09
+    Author:  Savage Game Design
     Public: No
     
     Description:

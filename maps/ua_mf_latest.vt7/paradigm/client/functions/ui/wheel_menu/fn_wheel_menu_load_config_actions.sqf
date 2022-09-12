@@ -1,8 +1,6 @@
 /*
 	File: fn_wheel_menu_load_config_actions.sqf
-	Author: Spoffy
-	Date: 2020-10-09
-	Last Update: 2020-10-09
+	Author:  Savage Game Design
 	Public: No
 	
 	Description:

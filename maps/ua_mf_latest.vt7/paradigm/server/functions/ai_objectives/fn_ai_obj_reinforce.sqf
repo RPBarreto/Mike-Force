@@ -1,8 +1,6 @@
 /*
     File: fn_ai_obj_reinforce.sqf
-    Author: Spoffy
-    Date: 2020-12-12
-    Last Update: 2020-12-12
+    Author:  Savage Game Design
     Public: No
     
     Description:

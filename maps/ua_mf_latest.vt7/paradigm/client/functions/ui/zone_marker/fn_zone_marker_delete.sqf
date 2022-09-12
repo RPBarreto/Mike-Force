@@ -1,8 +1,6 @@
 /*
     File: fn_zone_marker_delete.sqf
-    Author: Alablm
-    Date: 2021-10-15
-    Last Update: 2021-11-03
+    Author:  Savage Game Design
     Public: Yes
 
     Description:

@@ -1,8 +1,6 @@
 /*
     File: fn_tool_controller_init.sqf
-    Author: dent
-    Date: 2021-07-09
-    Last Update: 2021-07-09
+    Author:  Savage Game Design
     Public: Yes
     
     Description:
