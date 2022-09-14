@@ -8,7 +8,7 @@ class EditorData
 	toggles=513;
 	class ItemIDProvider
 	{
-		nextID=982;
+		nextID=1037;
 	};
 	class MarkerIDProvider
 	{
@@ -16,18 +16,18 @@ class EditorData
 	};
 	class LayerIndexProvider
 	{
-		nextID=518;
+		nextID=560;
 	};
 	class Camera
 	{
-		pos[]={976.02405,130.01366,2966.3811};
-		dir[]={0.35556936,-0.55809873,0.74973083};
-		up[]={0.2391527,0.82977456,0.50426209};
-		aside[]={0.9035356,0,-0.42851323};
+		pos[]={986.81372,27.44515,3021.1975};
+		dir[]={-0.27306989,-0.30509773,0.91236073};
+		up[]={-0.08748477,0.95232075,0.29229775};
+		aside[]={0.95803726,1.937151e-007,0.28674021};
 	};
 };
 binarizationWanted=0;
-sourceName="ua_mf_latest_v3";
+sourceName="ua_mf_latest_v2";
 addons[]=
 {
 	"A3_Ui_F",
@@ -1153,7 +1153,7 @@ class Mission
 		class Item12
 		{
 			dataType="Marker";
-			position[]={1040.7588,13.16,2888.0176};
+			position[]={1001.7131,13.16,3083.3857};
 			name="duty_officer_greenhornets";
 			text="@STR_vn_mf_duty_officer";
 			type="mil_dot";
@@ -1164,7 +1164,7 @@ class Mission
 		class Item13
 		{
 			dataType="Marker";
-			position[]={1076.2939,13.16,2893.7998};
+			position[]={993.99414,13.16,3083.2783};
 			name="duty_officer_acav";
 			text="@STR_vn_mf_duty_officer";
 			type="mil_dot";
@@ -1723,14 +1723,13 @@ class Mission
 		class Item27
 		{
 			dataType="Marker";
-			position[]={1009.3477,14.167104,3287.8379};
+			position[]={977.65564,13.16,3082.7783};
 			name="duty_officer_spiketeam";
 			text="@STR_vn_mf_duty_officer";
 			type="mil_dot";
 			colorName="ColorWhite";
 			angle=181.16362;
 			id=589;
-			atlOffset=5.7220459e-006;
 		};
 		class Item28
 		{
@@ -1756,7 +1755,7 @@ class Mission
 		class Item30
 		{
 			dataType="Marker";
-			position[]={1034.0342,13.16,2885.0098};
+			position[]={1001.1245,13.16,3080.2224};
 			name="mf_respawn_greenhornets";
 			text="@STR_vn_mf_respawn_green_hornets";
 			type="Empty";
@@ -1765,7 +1764,7 @@ class Mission
 		class Item31
 		{
 			dataType="Marker";
-			position[]={1019.376,13.66113,3285.2871};
+			position[]={977.63049,13.16,3080.4841};
 			name="mf_respawn_spiketeam";
 			text="@STR_vn_mf_respawn_spike_team";
 			type="Empty";
@@ -1775,7 +1774,7 @@ class Mission
 		class Item32
 		{
 			dataType="Marker";
-			position[]={979.74902,13.16,3080.0928};
+			position[]={984.63373,13.16,3080.4373};
 			name="mf_respawn_mikeforce";
 			text="@STR_vn_mf_respawn_mike_force";
 			type="Empty";
@@ -1784,7 +1783,7 @@ class Mission
 		class Item33
 		{
 			dataType="Marker";
-			position[]={1117.3547,13.16,2825.2446};
+			position[]={994.24713,13.16,3080.5496};
 			name="mf_respawn_acav";
 			text="@STR_vn_mf_respawn_acav";
 			type="Empty";
@@ -4117,7 +4116,7 @@ class Mission
 			name="helicopter_spawn";
 			text="@STR_vn_mf_helicopters";
 			type="b_air";
-			angle=52.679806;
+			angle=52.679787;
 			id=715;
 		};
 		class Item75

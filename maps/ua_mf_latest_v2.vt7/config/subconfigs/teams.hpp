@@ -1,10 +1,10 @@
 // limits and vanilla/custom trait values
 class MikeForce
 {
-    name = "Mike Force [Infantry]";
-    icon = "\vn\ui_f_vietnam\ui\taskroster\img\logos\Logo_MikeForce_HL.paa";
-    shortname = "Mike Force";
-    unit = "vn_b_men_army_01";
+    name = "UA International Legion [Infantry]";
+    icon = "img\Teams\logo_ua_international_legion_HL.paa";
+    shortname = "International Legion";
+    unit = "b_ngu_sergeant_gp25";
 
     class rolelimits 
     {
@@ -34,10 +34,10 @@ class MikeForce
 };
 class SpikeTeam
 {
-    name = "Spike Team [Special Forces]";
-    icon = "\vn\ui_f_vietnam\ui\taskroster\img\logos\Logo_SpikeTeam_HL.paa";
-    shortname = "Spike Team";
-    unit = "vn_b_men_army_01";
+    name = "UA SSO [Special Forces]";
+    icon = "img\Teams\logo_ua_sso_HL.paa";
+    shortname = "SSO";
+    unit = "b_afougf_rifleman_sso_sard_ak74";
 
     class rolelimits 
     {
@@ -68,9 +68,9 @@ class SpikeTeam
 };
 class ACAV
 {
-    name = "Armored Cavalry [Ground Support]";
-    icon = "\vn\ui_f_vietnam\ui\taskroster\img\logos\Logo_ACAV_HL.paa";
-    shortname = "ACAV";
+    name = "UA Ground Forces [Ground Support]";
+    icon = "img\Teams\logo_ua_ground_forces_HL.paa";
+    shortname = "UA Ground Forces";
     unit = "vn_b_men_army_01";
 
     class rolelimits 
@@ -101,10 +101,10 @@ class ACAV
 };
 class GreenHornets
 {
-    name = "Green Hornets [Air Support]";
-    icon = "\vn\ui_f_vietnam\ui\taskroster\img\logos\Logo_Hornets_HL.paa";
-    shortname = "Green Hornets";
-    unit = "vn_b_men_army_01";
+    name = "Echo Detachment [Homies]";
+    icon = "img\Teams\logo_ua_exo_hl.paa";
+    shortname = "EXO";
+    unit = "CUP_B_US_SpecOps_JTAC";
     
     class rolelimits 
     {
