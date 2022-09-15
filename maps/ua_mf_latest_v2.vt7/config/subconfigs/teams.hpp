@@ -9,15 +9,15 @@ class MikeForce
     class rolelimits 
     {
         medic = 1;
-        engineer = 1;
+        engineer = 0;
         explosiveSpecialist = 1;
-        vn_artillery = 1;
+        vn_artillery = 0;
     };
     
     class defaultTraits
     {
-        camouflageCoef = 0.8;
-        audibleCoef = 0.6;
+        camouflageCoef = 0.4;
+        audibleCoef = 1;
         loadCoef = 1;
         engineer = false;
         explosiveSpecialist = false;
@@ -41,9 +41,9 @@ class SpikeTeam
 
     class rolelimits 
     {
-        medic = 1;
-        engineer = 0;
-        explosiveSpecialist = 1;
+        medic = 2;
+        engineer = 2;
+        explosiveSpecialist = 0;
         vn_artillery = 1;
     };
     
@@ -53,7 +53,7 @@ class SpikeTeam
         audibleCoef = 0.3;
         loadCoef = 0.5;
         engineer = false;
-        explosiveSpecialist = false;
+        explosiveSpecialist = true;
         medic = false;
         UAVHacker = false;
         vn_artillery = false;
@@ -71,14 +71,14 @@ class ACAV
     name = "UA Ground Forces [Ground Support]";
     icon = "img\Teams\logo_ua_ground_forces_HL.paa";
     shortname = "UA Ground Forces";
-    unit = "vn_b_men_army_01";
+    unit = "b_afougf_sergeant_gp25";
 
     class rolelimits 
     {
-        medic = 2;
+        medic = 4;
         engineer = 40;
-        explosiveSpecialist = 2;
-        vn_artillery = 2;
+        explosiveSpecialist = 10;
+        vn_artillery = 4;
     };
     
     class defaultTraits
@@ -122,10 +122,10 @@ class GreenHornets
         engineer = false;
         explosiveSpecialist = false;
         medic = false;
-        UAVHacker = false;
+        UAVHacker = true;
         vn_artillery = false;
         harassable = true;
-        scout = false;
+        scout = true;
     };
 
     //Function Calls on team Join
