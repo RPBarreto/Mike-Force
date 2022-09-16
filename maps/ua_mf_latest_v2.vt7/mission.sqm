@@ -8,22 +8,22 @@ class EditorData
 	toggles=513;
 	class ItemIDProvider
 	{
-		nextID=1159;
+		nextID=1312;
 	};
 	class MarkerIDProvider
 	{
-		nextID=8;
+		nextID=12;
 	};
 	class LayerIndexProvider
 	{
-		nextID=588;
+		nextID=672;
 	};
 	class Camera
 	{
-		pos[]={1003.7605,22.040979,3046.0754};
-		dir[]={0.2962063,-0.16830254,-0.94025958};
-		up[]={0.050582882,0.98572934,-0.16056953};
-		aside[]={-0.95385951,-7.1531394e-007,-0.3004877};
+		pos[]={1010.9501,40.76199,2994.8931};
+		dir[]={-0.15245733,-0.37787336,0.91332912};
+		up[]={-0.062217146,0.92585492,0.37272093};
+		aside[]={0.98643833,7.7998266e-009,0.16466078};
 	};
 };
 binarizationWanted=0;
@@ -338,7 +338,7 @@ class Mission
 	};
 	class Entities
 	{
-		items=301;
+		items=306;
 		class Item0
 		{
 			dataType="Layer";
@@ -2582,12 +2582,11 @@ class Mission
 			dataType="Logic";
 			class PositionInfo
 			{
-				position[]={1133.0332,20.494623,2874.8418};
+				position[]={1133.0332,13.16,2874.8418};
 			};
 			name="vn_mf_veh_asset_logic";
 			id=667;
 			type="Logic";
-			atlOffset=7.3346233;
 		};
 		class Item49
 		{
@@ -3092,7 +3091,6 @@ class Mission
 			};
 			id=682;
 			type="Land_vn_b_helipad_01";
-			atlOffset=0.0071239471;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -9074,6 +9072,56 @@ class Mission
 			{
 			};
 			id=1157;
+		};
+		class Item301
+		{
+			dataType="Marker";
+			position[]={7297.603,0.22499999,5936.5679};
+			name="marker_8";
+			type="mil_warning";
+			colorName="ColorGreen";
+			id=1167;
+			atlOffset=0.00025634468;
+		};
+		class Item302
+		{
+			dataType="Marker";
+			position[]={14295.29,2.2639999,5932.1699};
+			name="marker_9";
+			type="mil_warning";
+			colorName="ColorGreen";
+			id=1168;
+			atlOffset=0.00022053719;
+		};
+		class Item303
+		{
+			dataType="Marker";
+			position[]={14298.383,2.796,12935.264};
+			name="marker_10";
+			type="mil_warning";
+			colorName="ColorGreen";
+			id=1169;
+			atlOffset=-0.00031089783;
+		};
+		class Item304
+		{
+			dataType="Marker";
+			position[]={5999.9648,12.259,2999.9451};
+			name="marker_11";
+			type="mil_warning";
+			colorName="ColorOrange";
+			id=1170;
+			atlOffset=-0.00011634827;
+		};
+		class Item305
+		{
+			dataType="Group";
+			side="East";
+			class Attributes
+			{
+			};
+			id=1296;
+			atlOffset=22.045448;
 		};
 	};
 	class Connections
